@@ -1,3 +1,1 @@
 - 👋 Hi, I’m <a href="https://github.com/SparkTheHuman">@SparkTheHuman</a>
-- I am just a beginner in progamming.
-- I am good in python and javascript,css and html
